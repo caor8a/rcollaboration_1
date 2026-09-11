@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Rcollaboration_1"
+  title: "Plants in action"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Don't touch this
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - sketchy
     css: styles.css
     toc: true
 

@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rcollaboration_1",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Non useful resources. Suffer…"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mamalona website",
+    "section": "",
+    "text": "We are working together on this website"
   }
 ]
